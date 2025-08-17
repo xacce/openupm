@@ -1,0 +1,17 @@
+name: com.xacce.gestalt
+displayName: Gestalt
+description: ''
+repoUrl: https://github.com/xacce/com.xacce.gestalt
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: mit
+image: ''
+topics:
+  - code-generation
+  - dots-and-ecs
+hunter: xacce
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:Readme.md
+createdAt: 1755448633206
